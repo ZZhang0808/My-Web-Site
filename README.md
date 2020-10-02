@@ -1,1 +1,3 @@
-This is a static website served to show viewers an up to date version of my resume as well as projects I have been working on.
+This repo is the sourse of my profile website.
+It contains sourse code images, and pdfs used in the website.
+The website is written in html and styled with css.
