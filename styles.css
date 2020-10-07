@@ -212,7 +212,7 @@
   /* "Automagic" image grid using no media queries */
   .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 480px));
+    grid-template-columns: repeat(auto-fit, 40rem);
     grid-gap: 4rem;
     width: 100%;
     max-width: 1280px;
